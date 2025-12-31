@@ -13,9 +13,10 @@ jobs:
 
       - name: Update README
         run: |
-          STATUS=$(cat status.txt)
+          # Select a random line from status.txt
+          STATUS=$(shuf -n 1 status.txt)
           awk -v status="$STATUS" '
-          /<!-- STATUS:START -->/ {print; print "```txt"; print status; print "```"; skip=1}
+          /<!-- STATUS:START -->/ {print; print status; skip=1}
           /<!-- STATUS:END -->/ {skip=0}
           !skip {print}
           ' README.md > temp.md

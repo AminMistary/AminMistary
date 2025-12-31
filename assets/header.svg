@@ -1,0 +1,57 @@
+<svg viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#001122;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#003366;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#001122;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#00f7ff;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#00f7ff;stop-opacity:0" />
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="100" fill="url(#headerGradient)" />
+
+  <!-- Animated grid lines -->
+  <g stroke="#00f7ff" stroke-width="0.5" opacity="0.3">
+    <line x1="0" y1="20" x2="800" y2="20">
+      <animate attributeName="stroke-dashoffset" values="0;800" dur="4s" repeatCount="indefinite"/>
+    </line>
+    <line x1="0" y1="40" x2="800" y2="40">
+      <animate attributeName="stroke-dashoffset" values="0;800" dur="3s" repeatCount="indefinite"/>
+    </line>
+    <line x1="0" y1="60" x2="800" y2="60">
+      <animate attributeName="stroke-dashoffset" values="0;800" dur="5s" repeatCount="indefinite"/>
+    </line>
+    <line x1="0" y1="80" x2="800" y2="80">
+      <animate attributeName="stroke-dashoffset" values="0;800" dur="2s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <!-- Floating particles -->
+  <circle cx="100" cy="30" r="2" fill="#00f7ff" opacity="0.7">
+    <animate attributeName="cy" values="30;70;30" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="300" cy="50" r="1.5" fill="#ff00ff" opacity="0.6">
+    <animate attributeName="cy" values="50;20;50" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="500" cy="40" r="2.5" fill="#00ff88" opacity="0.5">
+    <animate attributeName="cx" values="500;600;500" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="700" cy="60" r="1" fill="#ffff00" opacity="0.8">
+    <animate attributeName="cy" values="60;30;60" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Central glow -->
+  <circle cx="400" cy="50" r="30" fill="url(#glow)">
+    <animate attributeName="r" values="20;40;20" dur="3s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- System status text -->
+  <text x="400" y="55" text-anchor="middle" fill="#00f7ff" font-family="monospace" font-size="14" opacity="0.8">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+    SYSTEM ONLINE
+  </text>
+</svg>
