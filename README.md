@@ -183,13 +183,6 @@ SOON
   <em style="animation: fadeInOut 3s infinite;">Built with ❤️ and ☕ | Last Updated: <span id="last-updated"></span></em>
 </div>
 
-<style>
-@keyframes fadeInOut {
-  0%, 100% { opacity: 0.7; }
-  50% { opacity: 1; }
-}
-</style>
-
 
 <!-- ========================================================= -->
 <!-- END OF DYNAMIC PROFILE SYSTEM -->
