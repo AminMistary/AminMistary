@@ -1,0 +1,14 @@
+<svg viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg">
+  <polyline
+    fill="none"
+    stroke="#00f7ff"
+    stroke-width="3"
+    points="0,30 50,30 70,10 90,50 110,30 200,30 220,10 240,50 260,30 800,30">
+    <animate
+      attributeName="stroke-dashoffset"
+      from="1000"
+      to="0"
+      dur="2s"
+      repeatCount="indefinite"/>
+  </polyline>
+</svg>
