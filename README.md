@@ -106,12 +106,29 @@ SOON
   <img src="assets/pulse.svg" width="100%" alt="System Pulse" />
 </div>
 
-- **Commits**: Daily habits, not just noise
-- **Streaks**: Discipline in action
-- **Repositories**: Innovation experiments
-- **Contributions**: Impact measurement
-- **Collaborations**: Team synergy
-- **Issues/PRs**: Problem-solving journey
+<div align="center">
+  <img src="https://img.shields.io/github/commit-activity/m/AminMistary/AminMistary?style=for-the-badge&color=00f7ff&label=COMMITS" alt="Commits" />
+  <img src="https://img.shields.io/github/streak-stats/AminMistary?style=for-the-badge&color=ff00ff&label=STREAK" alt="Streak" />
+  <br>
+  <img src="https://img.shields.io/github/languages/count/AminMistary/AminMistary?style=for-the-badge&color=00ff88&label=LANGUAGES" alt="Languages" />
+  <img src="https://img.shields.io/github/issues-pr-closed/AminMistary/AminMistary?style=for-the-badge&color=ffff00&label=CONTRIBUTIONS" alt="Contributions" />
+</div>
+
+- **Commits**: <span style="animation: blink 2s infinite;">Daily habits, not just noise</span>
+- **Streaks**: <span style="color:#ff00ff; animation: pulse 1.5s infinite;">Discipline in action</span>
+- **Repositories**: <span style="color:#00f7ff; animation: fadeIn 3s infinite;">Innovation experiments</span>
+- **Contributions**: <span style="color:#00ff88; animation: slide 2s infinite;">Impact measurement</span>
+- **Collaborations**: <span style="color:#ffff00; animation: bounce 1s infinite;">Team synergy</span>
+- **Issues/PRs**: <span style="animation: glow 2s infinite;">Problem-solving journey</span>
+
+<style>
+@keyframes blink { 0%, 50% { opacity: 1; } 51%, 100% { opacity: 0; } }
+@keyframes pulse { 0% { transform: scale(1); } 50% { transform: scale(1.05); } 100% { transform: scale(1); } }
+@keyframes fadeIn { 0% { opacity: 0; } 50% { opacity: 1; } 100% { opacity: 0; } }
+@keyframes slide { 0% { transform: translateX(0); } 50% { transform: translateX(5px); } 100% { transform: translateX(0); } }
+@keyframes bounce { 0%, 20%, 50%, 80%, 100% { transform: translateY(0); } 40% { transform: translateY(-5px); } 60% { transform: translateY(-3px); } }
+@keyframes glow { 0% { text-shadow: 0 0 5px #00f7ff; } 50% { text-shadow: 0 0 20px #00f7ff, 0 0 30px #00f7ff; } 100% { text-shadow: 0 0 5px #00f7ff; } }
+</style>
 
 ## 🌐 CONNECT & COLLABORATE
 
@@ -154,10 +171,31 @@ SOON
 ---
 
 <div align="center">
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://img.shields.io/badge/Dynamic-Profile-00f7ff?style=for-the-badge&logo=github&logoColor=white" alt="Dynamic Profile" />
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://img.shields.io/badge/Status-Active-00ff88?style=for-the-badge&logo=circle&logoColor=white" alt="Active Status" />
+  </div>
+  <br>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://img.shields.io/github/followers/AminMistary?style=for-the-badge&color=ff00ff&label=FOLLOWERS" alt="Followers" />
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://img.shields.io/github/stars/AminMistary/AminMistary?style=for-the-badge&color=ffff00&label=STARS" alt="Stars" />
+  </div>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=AminMistary&label=Profile%20Views&color=00f7ff&style=flat" alt="Profile Views" />
   <br>
-  <em>Built with ❤️ and ☕ | Last Updated: <span id="last-updated"></span></em>
+  <em style="animation: fadeInOut 3s infinite;">Built with ❤️ and ☕ | Last Updated: <span id="last-updated"></span></em>
 </div>
+
+<style>
+@keyframes fadeInOut {
+  0%, 100% { opacity: 0.7; }
+  50% { opacity: 1; }
+}
+</style>
 
 <script>
   document.getElementById('last-updated').innerText = new Date().toLocaleDateString();
