@@ -10,13 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=940&lines=🟢+SYSTEM+STATUS+ACTIVE;👋+Welcome+to+Amin+Mistary's+Profile;🚀+Building+the+Future+with+Code" alt="Typing SVG" />
 </h1>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AminMistary&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AminMistary&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminMistary&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
 ---
 
@@ -100,11 +93,6 @@ SOON
 - **Diploma in Computer Science** - [MSBT], Completed: 2024
 - **BE in Artificial Intelligence & Machine Learning** - [SPPU], Expected Graduation: 2027
 
-## 📡 DYNAMIC SIGNALS
-
-<div align="center">
-  <img src="assets/pulse.svg" width="100%" alt="System Pulse" />
-</div>
 
 <div align="center">
   <img src="https://img.shields.io/github/commit-activity/m/AminMistary/AminMistary?style=for-the-badge&color=00f7ff&label=COMMITS" alt="Commits" />
