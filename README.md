@@ -93,6 +93,11 @@ SOON
 - **Diploma in Computer Science** - [MSBT], Completed: 2024
 - **BE in Artificial Intelligence & Machine Learning** - [SPPU], Expected Graduation: 2027
 
+## 📡 DYNAMIC SIGNALS
+
+<div align="center">
+  <img src="assets/pulse.svg" width="100%" alt="System Pulse" />
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/github/commit-activity/m/AminMistary/AminMistary?style=for-the-badge&color=00f7ff&label=COMMITS" alt="Commits" />
@@ -185,9 +190,6 @@ SOON
 }
 </style>
 
-<script>
-  document.getElementById('last-updated').innerText = new Date().toLocaleDateString();
-</script>
 
 <!-- ========================================================= -->
 <!-- END OF DYNAMIC PROFILE SYSTEM -->
