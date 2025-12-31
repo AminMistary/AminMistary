@@ -180,8 +180,7 @@ SOON
   <br>
   <img src="https://komarev.com/ghpvc/?username=AminMistary&label=Profile%20Views&color=00f7ff&style=flat" alt="Profile Views" />
   <br>
-  <em style="animation: fadeInOut 3s infinite;">Built with ❤️ and ☕ | Last Updated: <span id="last-updated"></span></em>
-</div>
+
 
 
 <!-- ========================================================= -->
