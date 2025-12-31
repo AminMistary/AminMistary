@@ -92,23 +92,13 @@ Contributing to open-source AI projects
 - **Full-Stack Development**: End-to-end application building
 
 ## 📊 PROJECTS & CONTRIBUTIONS
+SOON
 
-### Featured Projects
-- **[AI Chatbot](https://github.com/AminMistary/ai-chatbot)**: Intelligent conversational AI built with Python and TensorFlow
-- **[Scalable Web App](https://github.com/AminMistary/scalable-web-app)**: Full-stack application with microservices architecture
-- **[Data Analytics Dashboard](https://github.com/AminMistary/data-dashboard)**: Real-time analytics platform using React and D3.js
 
-### Open Source Contributions
-- Active contributor to TensorFlow and scikit-learn projects
-- Maintains several npm packages for Node.js utilities
-- Frequent participant in Hacktoberfest and Google Summer of Code
+## 🎓 EDUCATION 
 
-## 🎓 EDUCATION & CERTIFICATIONS
-
-- **B.Tech in Artificial Intelligence & Machine Learning** - [University Name], Expected Graduation: 2025
-- **Google Cloud Professional Cloud Architect** - Certification
-- **AWS Certified Solutions Architect** - Certification
-- **Coursera Machine Learning Specialization** - Andrew Ng
+- **Diploma in Computer Science** - [MSBT], Completed: 2024
+- **BE in Artificial Intelligence & Machine Learning** - [SPPU], Expected Graduation: 2027
 
 ## 📡 DYNAMIC SIGNALS
 
@@ -129,10 +119,8 @@ Contributing to open-source AI projects
   <a href="https://linkedin.com/in/aminmistary">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/aminmistary">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:amin.mistary@email.com">
+  <a href="mailto:aminmistary@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://aminmistary.dev">
@@ -180,25 +168,3 @@ Contributing to open-source AI projects
 <!-- ========================================================= -->
 
 ---
-
-# 🧩 NEXT STEPS (IMPORTANT)
-
-After pasting this README:
-
-1. Create `status.txt`  
-2. Create `assets/pulse.svg`  
-3. Add GitHub Action for auto-updates  
-
-(Already explained earlier — I can resend clean versions if you want.)
-
----
-
-# 🔥 WANT MORE?
-
-I can:
-- Turn this into a **terminal OS theme**
-- Add **weekly auto progress**
-- Optimize it for **Software Engineer / AI roles**
-- Make it **recruiter-optimized**
-
-Just say **what role you want this profile to attract** 🚀
