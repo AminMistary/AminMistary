@@ -59,7 +59,7 @@
   <a href="https://www.instagram.com/aminn_.20/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
   </a>
-  <a href="mailto:aminmistary@gmail.com">
+  <a href="mailto:aminmistary@gmail.com?subject=Test%20from%20Portfolio&body=Hello!">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail">
   </a>
 </p>
